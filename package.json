@@ -12,7 +12,7 @@
   "dependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-env": "^7.22.0",
     "@popperjs/core": "^2.10.2",
     "@zxcvbn-ts/core": "^2.0.1",
     "autoprefixer": "^10.3.6",
